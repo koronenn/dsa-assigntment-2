@@ -45,4 +45,5 @@ int main(void)
 	//freeing the tree
 	freeTree(root);
 	return 0;
+
 }
